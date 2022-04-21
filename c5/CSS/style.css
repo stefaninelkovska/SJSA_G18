@@ -1,0 +1,69 @@
+body{
+    /* background-color: red; */
+    /* background-image: url("../Images/watercolor.webp"); */
+    /* background-repeat: no-repeat;  */
+    /* background-size: 50%; */
+    /* background-position: 50px 50px; */
+}
+
+
+.left{ color: white;
+    background-image: url(../Images/polka-dots.webp);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.center{ background-image: url(../Images/pink-flowers.webp);
+background-position: center;
+background-repeat: repeat-y;}
+.right{
+    background-image: url(../Images/food.webp);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.everywhere{background-image: url(../Images/bush.webp);}
+
+/* 
+h2{
+    color: rgb(55, 46, 139);
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+#hello-title{
+    color: maroon;
+    font-size: 45px;
+    text-decoration: line-through;
+}
+
+.another-title{
+    color: mediumseagreen;
+    font-size: 25px;
+    text-decoration: overline;
+}
+
+p{
+    color: red;
+    font-size: 24px;
+    font-style: italic;
+    line-height: 35px;
+    letter-spacing: 10px;
+
+}
+
+h4{
+    font-size: 35px;
+    color: palevioletred;
+    font-style: italic;
+    font-weight: 100;
+}
+
+#morbi{
+    color: midnightblue;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.morbi-auctor{
+    color: orchid;
+    font
+} */
+
